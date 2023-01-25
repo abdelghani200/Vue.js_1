@@ -30,7 +30,8 @@ npm run build
 # Tasks Vue.js
 Add, Delete et Underline une task
 
-![](public/task_js.png)
+<!-- ![](public/task_js.png) -->
+![](./first_projet/public/task_js.png)
 
 ## Live Demo
 
